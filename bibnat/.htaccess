@@ -1,0 +1,6 @@
+
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^bibnat\.book\-a\-book\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.bibnat\.book\-a\-book\.com$
+RewriteRule ^/?$ "http\:\/\/book\-a\-book\.com\/bibnat" [R=301,L]
+

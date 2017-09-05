@@ -1,0 +1,148 @@
+#pictures-container {
+
+  margin: auto;
+  width: 100%;
+  margin-top: 2%;
+}
+#navbar {
+  float: left;
+}
+#navleft {
+	float: left;
+	margin-left: 2%;
+}
+#navright {
+	float: right;
+	width: auto;
+	margin-right: 3%;
+	background-color:green;
+}
+.nav-list {
+  background-color: #1c110A;
+  border-style: solid;
+  border-right: thick dotted #e9b44c;
+  border-top: none;
+  border-left: none;
+  border-bottom: none;
+}
+.nav-list ul {
+  width: 100%;
+  border-style: none;
+}
+.button {
+}
+#full-width {
+	width: 100%;
+	background-color: #1c110A;
+	border-style: solid;
+  border-bottom: thick dotted #e9b44c;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+}
+#full-height {
+	height: auto;
+  
+}
+#logo {
+	margin-left: 2%;
+}
+#container {
+}
+.tree {
+  display: none;
+  padding-left: 30px;
+  max-height: auto;
+  overflow: auto;
+}
+
+body {
+	background: #e4d6a7;
+  overflow-x: hidden;
+}
+
+.btn {
+    padding: 10px 20px;
+    margin-bottom:2px;
+    border: 0 none;
+    font-weight: 700;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+}
+ 
+.btn:focus, .btn:active:focus, .btn.active:focus {
+    outline: 0 none;
+}
+ 
+.btn-primary {
+    background: #ED1845;
+    color: #ffffff;
+    width: 100px;
+    text-align: left;
+}
+ 
+.btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active, .open > .dropdown-toggle.btn-primary {
+    background: #55c7DD;
+}
+ 
+.btn-primary:active, .btn-primary.active {
+    background: #007299;
+    box-shadow: none;
+}
+
+.btn-primary-second {
+    background: #ED1845;
+    color: #ffffff;
+    width: 100%;
+    text-align: left;
+}
+ 
+.btn-primary-second:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active, .open > .dropdown-toggle.btn-primary {
+    background: #55c7DD;
+}
+ 
+.btn-primary-second:active, .btn-primary.active {
+    background: #007299;
+    box-shadow: none;
+}
+
+#display-img {
+	float: right;
+	width: 100%;
+}
+
+.imagine{
+	width:100%;
+}
+
+.tooltip {
+	display:none;
+	position:absolute;
+	border:1px solid #333;
+	background-color:#161616;
+	border-radius:5px;
+	padding:10px;
+	color:#fff;
+	font-size:12px Arial;
+}
+
+#right-side {
+  background-color: white;
+}
+
+.footer button{
+    margin-right: 500px;
+    bottom:30px;
+    width:auto;
+    background-color: red;
+}
+.load-more{
+  position:fixed;
+  bottom:20px;
+  background-color: #ED1845;
+  color:white;
+
+}
+.right-wing {
+  background-color: blue;
+}
