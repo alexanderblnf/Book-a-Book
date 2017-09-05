@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file>
+  <record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd" xmlns="http://www.loc.gov/MARC21/slim">
+    <leader>-----nam--22--------450-</leader>
+    <controlfield tag="008">b 000 und d</controlfield>
+    <datafield tag="010" ind2=" " ind1=" ">
+      <subfield code="a"> </subfield>
+    </datafield>
+    <datafield tag="090" ind2=" " ind1=" ">
+      <subfield code="a">TESTUL111</subfield>
+    </datafield>
+    <datafield tag="200" ind2=" " ind1="1">
+      <subfield code="a">TITLUL11</subfield>
+      <subfield code="e"/>
+    </datafield>
+    <datafield tag="205" ind2=" " ind1=" ">
+      <subfield code="a"/>
+    </datafield>
+    <datafield tag="210" ind2=" " ind1=" ">
+      <subfield code="a"/>
+      <subfield code="c"/>
+      <subfield code="d"/>
+    </datafield>
+    <datafield tag="215" ind2=" " ind1=" ">
+      <subfield code="a">Paginatie</subfield>
+    </datafield>
+    <datafield tag="300" ind2=" " ind1=" ">
+      <subfield code="a"/>
+    </datafield>
+    <datafield tag="675" ind2=" " ind1=" ">
+      <subfield code="a">Clasificare zecimala</subfield>
+    </datafield>
+    <datafield tag="700" ind2="1" ind1=" ">
+      <subfield code="a"/>
+      <subfield code="b"/>
+    </datafield>
+    <datafield tag="701" ind2="1" ind1=" ">
+      <subfield code="a"/>
+      <subfield code="b"/>
+    </datafield>
+    <datafield tag="701" ind2="1" ind1=" ">
+      <subfield code="a"/>
+      <subfield code="b">Prenume autor 3</subfield>
+    </datafield>
+    <datafield tag="BAS" ind2=" " ind1=" ">CTV</datafield>
+  </record>
+</file>

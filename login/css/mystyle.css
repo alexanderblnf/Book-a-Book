@@ -1,0 +1,96 @@
+html {
+	max-width: 100%;
+}
+body {
+	font-family: Georgia, serif;
+    	background-color: #1c110a;
+        color: #e4d6a7;
+        max-width: 100%;
+        overflow: hidden;
+}	
+.date{
+	font-family: Georgia, serif;
+}
+.nume {
+	float: right;
+}
+.centertitle{
+}
+.centertitlesecund{
+}
+.titleCenter{	
+        color: #e4d6a7;
+}
+.button {
+         color: blue;
+        	
+}
+#submit{
+	background-color:#6E0000;
+}
+#navcontainer{
+	
+}
+#navcontainer ul
+{
+list-style-type: none;
+background-color: red;
+}
+
+ul {
+    list-style: none; /* Remove list bullets */
+    font-size:2em;
+}
+
+#gen{
+	font-family: Georgia, serif;
+	vertical-align: middle; margin:0px;
+	font-size:0.7em;
+	margin-right: auto;
+}
+
+.btn-facebook{
+	background-color: #3b5998;
+	color: white;
+	font-size:1.4em;
+}
+.btn-facebook:hover{
+	color: #dfe3ee;
+}
+
+.btn-secondary {
+	color: white;
+	font-size:1.4em;
+}
+.btn-secondary:hover {
+	color: #FFB7B7;
+}
+
+.newTitle{
+	padding-bottom: 3%;
+	padding-top: 3%;
+}
+.newLine{
+	padding-bottom: 1%;
+}
+hr {
+	color: green;
+}
+.newLine hr {
+
+	height: 2px;
+	background-color:#6E0000;
+	color:#6E0000;
+	border: 0 none;
+	margin: 5px auto;
+
+}
+img {
+    display: block;
+    margin: 0 auto;
+}
+.footer {
+	display: block;
+    	margin: 0 auto;
+    	text-align: center;
+}

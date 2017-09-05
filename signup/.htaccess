@@ -1,0 +1,6 @@
+
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^signup\.book\-a\-book\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.signup\.book\-a\-book\.com$
+RewriteRule ^/?$ "http\:\/\/book\-a\-book\.com\/signup" [R=301,L]
+

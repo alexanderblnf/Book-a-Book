@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+        [schema_export_Aleph.xml]
+<file>[schema_export_Aleph.xml]
+    <record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+            xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd" xmlns="http://www.loc.gov/MARC21/slim">
+        <leader>-----nam--22--------450-</leader>
+        <controlfield tag="008">b 000 und d</controlfield>[schema_export_Aleph.xml]
+        <datafield tag="010" ind2=" " ind1=" ">
+            <subfield code="a">ISBN</subfield>
+        </datafield>
+        [schema_export_Aleph.xml]
+        <datafield tag="090" ind2=" " ind1=" ">
+            <subfield code="a">Cota</subfield>
+        </datafield>
+        [schema_export_Aleph.xml]
+        <datafield tag="200" ind2=" " ind1="1">
+            <subfield code="a">Titlu</subfield>
+            <subfield code="e">Informație la titlu</subfield>
+        </datafield>
+        [schema_export_Aleph.xml]
+        <datafield tag="205" ind2=" " ind1=" ">
+            <subfield code="a">Ediție</subfield>
+        </datafield>
+        [schema_export_Aleph.xml]
+        <datafield tag="210" ind2=" " ind1=" ">
+            <subfield code="a">Loc de publicare</subfield>
+            <subfield code="c">Editură</subfield>
+            <subfield code="d">An de publicare</subfield>
+        </datafield>
+        [schema_export_Aleph.xml]
+        <datafield tag="215" ind2=" " ind1=" ">
+            <subfield code="a">Paginație</subfield>
+        </datafield>
+        [schema_export_Aleph.xml]
+        <datafield tag="300" ind2=" " ind1=" ">
+            <subfield code="a">Note</subfield>
+        </datafield>
+        [schema_export_Aleph.xml]
+        <datafield tag="675" ind2=" " ind1=" ">
+            <subfield code="a">Clasificare zecimală</subfield>
+        </datafield>
+        [schema_export_Aleph.xml]
+        <datafield tag="700" ind2="1" ind1=" ">
+            <subfield code="a">Nume autor (1)</subfield>
+            <subfield code="b">Prenume autor (1)</subfield>
+        </datafield>
+        [schema_export_Aleph.xml]
+        <datafield tag="701" ind2="1" ind1=" ">
+            <subfield code="a">Nume autor (2)</subfield>
+            <subfield code="b">Prenume autor (2)</subfield>
+        </datafield>
+        [schema_export_Aleph.xml]
+        <datafield tag="701" ind2="1" ind1=" ">
+            <subfield code="a">Nume autor (3)</subfield>
+            <subfield code="b">Prenume autor (3)</subfield>
+        </datafield>
+        <datafield tag="BAS" ind2=" " ind1=" ">CTV</datafield>
+    </record>
+</file>

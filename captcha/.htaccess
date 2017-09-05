@@ -1,0 +1,6 @@
+
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^captcha\.book\-a\-book\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.captcha\.book\-a\-book\.com$
+RewriteRule ^/?$ "http\:\/\/book\-a\-book\.com\/captcha" [R=301,L]
+
